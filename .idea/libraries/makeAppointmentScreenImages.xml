@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="makeAppointmentScreenImages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/makeAppointmentScreenImages/day_unactive.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/makeAppointmentScreenImages/brain_tree.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/makeAppointmentScreenImages/day_active.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/makeAppointmentScreenImages/time_active.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/makeAppointmentScreenImages/stripe.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/makeAppointmentScreenImages/time_unactive.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="specialityScreenImages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/specialityScreenImages/grastroentrology.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/specialityScreenImages/speciality_bg.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

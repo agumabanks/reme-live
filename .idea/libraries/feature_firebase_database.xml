@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-firebase_database">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/firebase_database/intermediates/merged_java_res/debug/feature-firebase_database.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

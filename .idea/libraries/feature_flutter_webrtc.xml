@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-flutter_webrtc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/flutter_webrtc/intermediates/merged_java_res/debug/feature-flutter_webrtc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

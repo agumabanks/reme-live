@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="braintree">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/braintree/Screenshot%202022-04-09%20at%204.36.46%20PM.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/braintree/this%20you%20need%20to%20make.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

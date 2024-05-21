@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-device_info">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/device_info/intermediates/merged_java_res/debug/feature-device_info.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

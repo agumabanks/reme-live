@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pica.min.js">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/packages/flutter_image_compress_web/assets/pica.min.js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

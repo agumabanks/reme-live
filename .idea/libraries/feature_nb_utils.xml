@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-nb_utils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/nb_utils/intermediates/merged_java_res/debug/feature-nb_utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
